@@ -1,6 +1,14 @@
 <br clear="both">
 
-<h2 align="left">Hello World!! My name is Shivam Petwal and i am from uttarakhand</h2>
+<h1 align="left">Hello World!  I'm Shivam Petwal</h1>
+
+###
+
+<p align="left">I'm currently a student pursuing my MCA (Master of Computer Application) 👨‍🎓 from Graphic Era Hill University , Dehradun , Uttarakhand, India</p>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
@@ -62,11 +70,27 @@
 
 <br clear="both">
 
+<h2 align="left">Shivam Petwal's GitHub stats</h2>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivampetwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivampetwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shivampetwal&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivampetwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivampetwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=shivampetwal&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
+
+###
+
+<h2 align="left">Accounts</h2>
 
 ###
 
