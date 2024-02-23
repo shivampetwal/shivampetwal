@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="./shivampetwal.gif"  />
+<img align="right" height="250" src="./shivampetwal.gif"  />
 
 ###
 
