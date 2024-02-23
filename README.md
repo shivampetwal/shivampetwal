@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hello World!  I'm Shivam Petwal</h1>
+<h1 align="left">Hello World!  I'm Shivam Petwal 🙋‍♂️</h1>
 
 ###
 
@@ -13,7 +13,6 @@
 ###
 
 <br clear="both">
-
 
 <img align="right" height="250" src="./shivampetwal.gif"  />
 
@@ -121,7 +120,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shivampetwal/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shivampetwal.shivampetwal&left_text=%F0%9F%91%81%EF%B8%8FProfile%20visitors%20"  />
 </div>
 
 ###
