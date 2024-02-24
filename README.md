@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hello World!  I'm Shivam Petwal 🙋‍♂️</h1>
+<h1 align="left"> Hello World!🙋‍♂️  I'm Shivam Petwal 🧔‍♂️ </h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Tools ⚙️🔧</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<h2 align="left">Shivam Petwal's GitHub stats</h2>
+<h2 align="left">Shivam Petwal's GitHub stats📈📊</h2>
 
 ###
 
@@ -90,7 +90,7 @@
 
 ###
 
-<h2 align="left">Accounts</h2>
+<h2 align="left">Accounts🪪👤</h2>
 
 ###
 
