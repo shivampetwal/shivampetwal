@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm currently a student pursuing my MCA (Master of Computer Application) 👨‍🎓 from Graphic Era Hill University , Dehradun , Uttarakhand, India 🇮🇳 </p>
+<p align="left">🇮🇳 </p>
 
 ###
 
