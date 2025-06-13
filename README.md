@@ -50,12 +50,6 @@
 </div>
 
 <div style="margin-bottom:4px">
-  <a href="https://leetcode.com/shivampetwal/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
-  </a>
-</div>
-
-<div style="margin-bottom:4px">
   <a href="mailto:petwalshivam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
