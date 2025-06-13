@@ -11,10 +11,10 @@
 <h3>🛠️ Tech Stack</h3>
 
 <!-- Languages -->
-<p>
+
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
-</p>
+
 
 <!-- Databases -->
 <p>
